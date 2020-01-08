@@ -27,8 +27,7 @@ li a {
   width: 100%;
   height: 120px;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.15);
-  background-color: white;
-  opacity: 0.75;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 .header-contact,
 .header-menu {
@@ -304,8 +303,7 @@ header {
 }
 .text-bot {
   width: 85.65%;
-  background-color: #ffff;
-  opacity: 0.75;
+  background-color: rgba(255, 255, 255, 0.75);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -826,7 +824,7 @@ hr {
 }
 .stickyBar {
   position: fixed;
-  background-color: solid white;
+  background-color: white;
   opacity: 1;
 }
 
