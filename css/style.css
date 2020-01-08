@@ -1240,9 +1240,6 @@ hr {
   .slick-img {
     max-width: 500px;
   }
-  .footer-info-detail-2 {
-    margin-left: 100px;
-  }
   .copyright-fixed {
     flex-direction: column;
     text-align: center;
@@ -1339,7 +1336,7 @@ hr {
     padding-top: 50px;
   }
   .footer-info {
-    width: 70%;
+    width: 80%;
   }
 }
 
@@ -1381,7 +1378,6 @@ hr {
     letter-spacing: 0.55px;
     text-align: center;
   }
-
   .brand-section-desktop {
     display: none;
   }
