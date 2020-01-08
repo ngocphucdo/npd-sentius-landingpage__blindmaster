@@ -452,18 +452,16 @@ p {
   padding: 18px 59px 15px 59px;
   border: solid 1px #68566b;
 }
-
-.featured-square-learnmore:hover {
-  background-color: #342d50;
-  color: white;
-}
 .featured-square-learnmore:link,
 .featured-square-project,
 .featured-square-project-2,
 .featured-square-featured {
   color: #342d50;
 }
-
+.featured-square-learnmore:hover {
+  background-color: #342d50;
+  color: white;
+}
 /* tech-hub*/
 
 .tech-hub {
